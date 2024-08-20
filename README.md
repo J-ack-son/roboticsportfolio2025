@@ -11,4 +11,4 @@ Skilled in:
 ## Projects for Term 2
 
 
-![]()
+![Robot](https://github.com/J-ack-son/roboticsportfolio2025/blob/main/images/ROBOT.jpeg?raw=true)
